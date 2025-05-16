@@ -52,7 +52,7 @@ public class interviewQuestionReader {
                 break;
             }
 
-            System.out.print("\nQuestion: " + question + " ");
+            System.out.print("\nQuestion/Questions: " + question + " ");
         }
     }
 }
