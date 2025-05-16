@@ -17,7 +17,7 @@ public class interviewQuestionReader {
         questions = loadQuestions("questions.csv");
 
         if(questions.isEmpty()){
-            System.out.print("No questions found or failed to load file");
+            System.out.print("No questions found or failed to load file ");
             return;
         }
 
